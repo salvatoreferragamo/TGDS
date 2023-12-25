@@ -6,7 +6,7 @@ This is the repo for **TGDS**.
 We release the initial version of our model's code for immediate access and reproduction. We will subsequently organize and update our code further to facilitate the researchers reading and making incremental experiments.  
 
 
-You may notice that the versions of some packages differ in the **requirements.txt** files under different folders. This is due to conducting experiments with LLMs and some baselines on different GPUs. We plan to standardize them later.
+You may notice that the versions of some packages differ in the **requirements.txt** files under different folders. This is because we have been consistently conducting experiments with LLMs and some baselines on different GPUs. We plan to standardize them later.
 
 
 ## Acknowledgements
