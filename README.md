@@ -21,13 +21,11 @@ The work of this project has been inspired and assisted by the following open-so
 
 If you use the repository of this project, please cite it.
 
- <pre>
-@misc{TGDS,
+ <pre>@misc{TGDS,
   author = {Qinyu Han},
   title = {Let Topic Flow: A Unified Topic-guided Segment-wise Dialogue Summarization Framework},
   year = {2023},
   publisher = {GitHub},
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/salvatoreferragamo/TGDS}},
-}
-<pre>
+}<pre>
