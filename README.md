@@ -1,8 +1,12 @@
 # Let Topic Flow: A Unified Topic-guided Segment-wise Dialogue Summarization Framework
 
 This is the repo for **TGDS**.  
+
+  
 We release the initial version of our model's code for immediate access and reproduction. We will subsequently organize and update our code further to facilitate the researchers reading and making incremental experiments.  
-You may notice that the version of some packages under different folders are not the same in the in the requirements.txt. 
+
+
+You may notice that the version of some packages are not the same in the requirements.txt under different folders. 
 
 
 ## Acknowledgements
